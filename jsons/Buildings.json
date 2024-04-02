@@ -34,7 +34,7 @@
    "percentStatBonus": {"gold": 20},
      "specialistSlots": {"Scientist": 1, "Merchant": 2},
 		"isNationalWonder": true,
-		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "May buy [Plasmid] buildings for [250] [Gold] [in all cities]", "[+25]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "May buy [Plasmid] buildings for [500] [Gold] [in all cities]", "[+25]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Mathematics"
 	},
 {
@@ -60,7 +60,7 @@
     "specialistSlots": {"Artist": 2, "Merchant": 1},
  "greatPersonPoints": {"Great Artist": 1},
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Enables conversion of city production to [Culture]", " Production to [Culture] conversion in cities changed by [+100]%", "[+1] Happiness from each type of luxury resource"],
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Enables conversion of city production to [Culture]", "Production to [Culture] conversion in cities changed by [+100]%", "[+1] Happiness from each type of luxury resource"],
 		"requiredTech": "Drama and Poetry"
 	},
 {
@@ -74,14 +74,14 @@
       "specialistSlots": {"Scientist": 2, "Engineer": 1},
  "greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},
-		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", " May buy [Next-Gen Plasmid] buildings for [350] [Gold] [in all cities]", "Can only be built <in cities with a [Fontaine Futuristics]>", 	"[+1 Science] from [Water resource] tiles [in this city]",],
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", " May buy [Next-Gen Plasmid] buildings for [700] [Gold] [in all cities]", "Can only be built <in cities with a [Fontaine Futuristics]>", 	"[+1 Science] from [Water resource] tiles [in this city]",],
 		"requiredTech": "Philosophy"
 	},
 {
 		"name": "Hepatheseus",
 		"cost": 275,
 		"production": 6,
-  "specialistSlots": {"Engineer": 2,},
+  "specialistSlots": {"Engineer": 2},
   "Maintenance": 2
  "greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
@@ -93,10 +93,11 @@
   "replaces": "Shrine",
 		"uniqueTo": "Rapture",
 		"Happiness": 1,
-		"cost": 40,
+  "culture": 1,
+		"cost": 50,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[+25 Culture] whenever a Great Person is expended"]
+		"uniques": ["[+50 Culture] whenever a Great Person is expended"]
 	},
 {
 		"name": "'The Great Chain' - Andrew Cohen",
@@ -106,30 +107,34 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 50,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+3 Production] per every [5] [Gold] <in this city>", "[+1 Culture] from all [Gold] buildings <when above [15] Happiness>", "Destroyed when the city is captured"]
+		"uniques": ["[+1 Culture] from all [Gold] buildings <when above [15] Happiness>", "Destroyed when the city is captured", "[+1 Production] per every [400] [Gold] <when between [0] and [10] Happiness>", "[+1 Production] per every [200] [Gold] <when between [11] and [20] Happiness>", "[+1 Production] per every [100] [Gold] <when between [21] and [30] Happiness>", "[+1 Production] per every [50] [Gold] <when between [31] and [40] Happiness>", "[+1 Production] per every [25] [Gold] <when between [41] and [55] Happiness>", "[+1 Production] per every [10] [Gold] <when between [56] and [65] Happiness>",
+"[+1 Production] per every [5] [Gold] <when between [66] and [72] Happiness>", "[+1 Production] per every [3] [Gold] <when above [73] Happiness>"]
 	},
 {
 		"name": "Plasmid - Insect Swarm",
 		"cost": 250,
+"Happiness": 2,
 		"uniqueTo": "Rapture",
    "percentStatBonus": {"gold": 5, "food": 20, "production": 5, "culture": 10, "science": 10},
-		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [{Land} {Military}] units [in this city] receive the [Insect Swarm] promotion", "[-1] Population [in this city]", "[+50]% Unhappiness from [Population] [in this city]", "[-20]% Growth [in this city]"],
+		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [{Land} {Military}] units [in this city] receive the [Insect Swarm] promotion", "[-1] Population [in this city]", "[+50]% Unhappiness from [Population] [in this city]", "[-25]% Growth [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
 		"name": "Plasmid - Incinerate!",
 		"cost": 250,
 		"uniqueTo": "Rapture",
+  "Happiness": 2,
    "percentStatBonus": {"gold": 10, "food": 10, "production": 10, "culture": 10, "science": 10},
-		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [{Land} {Military}] units [in this city] receive the [Incinerate!] promotion", "[-1] Population [in this city]", "[+50]% Unhappiness from [Population] [in this city]", "[-20]% Growth [in this city]"],
+		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [{Land} {Military}] units [in this city] receive the [Incinerate!] promotion", "[-1] Population [in this city]", "[+50]% Unhappiness from [Population] [in this city]", "[-25]% Growth [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
 		"name": "Plasmid - Zap Bolt",
 		"cost": 250,
+"Happiness": 2,
 		"uniqueTo": "Rapture",
    "percentStatBonus": {"gold": 5, "food": 5, "production": 15, "culture": 10, "science": 15},
-		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [{Land} {Military}] units [in this city] receive the [Zap Bolt] promotion", "[-1] Population [in this city]", "[+50]% Unhappiness from [Population] [in this city]", "[-20]% Growth [in this city]"],
+		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [{Land} {Military}] units [in this city] receive the [Zap Bolt] promotion", "[-1] Population [in this city]", "[+50]% Unhappiness from [Population] [in this city]", "[-25]% Growth [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 ]
