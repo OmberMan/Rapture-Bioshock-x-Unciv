@@ -10,17 +10,17 @@
                 "startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
                 "startIntroPart2": "'Darkness falls across the land, the midnight hour is close at hand, creatures crawl in search of blood to terrorize y'all's neighborhood' - Vincent Price",
 
-                "declaringWar": "BRAINS!",
-                "attacked": "Grrr!",
-                "defeated": "Urk!",
-                "introduction": "Brains...",
+                "declaringWar": "Even in a book of lies sometimes you find truth. A season for all things! A time to live and a time to die, a time to build... AND A TIME TO DESTROY!",
+                "attacked": " I came to this place to build the impossible. You came to rob what you could never build \n- a Hun gaping at the gates of Rome. \n\nEven the air you breathe is sponged from my account; your very life needs leech off my capital, like a tick sucking the lifeblood of Rapture with every breath. \nNow I will suffer you no longer!",
+                "defeated": "You can kill me, but you            have my city. My strength is not                  ,                                                 . A season for all things! A time to                    die!",
+                "introduction": "I am Andrew Ryan, and I'm here to ask you a question. Is a man not entitled to the sweat of his brow? \n'No!' says the man in Washington, 'It belongs to the poor.' 'No!' says the man in the Vatican, 'It belongs to God.' 'No!' says the man in Moscow, 'It belongs to everyone.' \nI rejected those answers; instead, I chose something different. \nI chose the impossible. \nI chose... Rapture, a city where the artist would not fear the censor, where the scientist would not be bound by petty morality, Where the great would not be constrained by the small! And with the sweat of your brow, you can get out. \nRapture is mine: not a sunken ship for you to plunder, and I am not some giddy socialite who can be slapped around by government muscle.",
 
-                "neutralHello": "Brains?",
+                "neutralHello": "In the end, what separates a man from a slave? \nMoney? Power? \nNo. A man chooses, and a slave obeys.",
                 "neutralLetsHearIt": "Talk?",
                 "neutralNo": "Bad...",
                 "neutralYes": "Good...",
 
-                "hateHello": "Grrr...",
+                "hateHello": "Tell me, friend, which one of the bitches sent you? The KGB wolf, or the CIA jackal?",
                 "hateLetsHearIt": "Talk...",
                 "hateNo": "Hate!",
                 "hateYes": "Okay...",
