@@ -4,7 +4,7 @@
     "unitType": "Civilian",
     "uniqueTo": "Rapture",
     "replaces": "Great General",
-    "uniques": ["[+1] Sight", "Ignores Zone of Control", "[+25]% Strength bonus for [Insect Swarm] units within [2] tiles", "May withdraw before melee ([20]%)", "All adjacent units heal [+20] HP when healing", "Transfer Movement to [Big Daddy]", "Great Person - [War]", "Unbuildable"],
+    "uniques": ["[+1] Sight", "Ignores Zone of Control", "[+33]% Strength bonus for [ADAM Enhanced] units within [2] tiles", "Can hurry technology research", "May withdraw before melee ([20]%)", "All adjacent units heal [+20] HP when healing", "Transfer Movement to [Big Daddy]", "Great Person - [War]", "Unbuildable"],
     "movement": 2,
   },
 	{
@@ -12,7 +12,7 @@
 		"unitType": "Sword",
   "uniqueTo": "Rapture",
   "replaces": "Marine",
-		"movement": 1,
+		"movement": 1, 
 		"strength": 72,
 		"cost": 460,
   "promotions": ["Amphibious"],
@@ -20,4 +20,4 @@
 		"uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
 		"attackSound": "horse"
 	},
-]
+]  
