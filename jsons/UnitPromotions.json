@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Insect Swarm",
-		"uniques": ["[-20]% Strength for enemy [Sword] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Mounted] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Archery] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Gunpowder] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Ranged Gunpowder] units in adjacent [non-[Snow]] tiles", "[-5]% Strength for enemy [Wounded] units in adjacent [non-[Snow]] tiles", "Heals [15] damage if it kills a unit", "No movement cost to pillage", "[relativeAmount]% to Flank Attack bonuses", "[+33]% Strength <when fighting in [Jungle] tiles>", "[+1] Sight"],
+		"uniques": ["[-20]% Strength for enemy [Sword] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Mounted] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Archery] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Gunpowder] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Ranged Gunpowder] units in adjacent [non-[Snow]] tiles", "[-5]% Strength for enemy [Wounded] units in adjacent [non-[Snow]] tiles", "Heals [15] damage if it kills a unit", "No movement cost to pillage", "[+100]% to Flank Attack bonuses", "[+33]% Strength <when fighting in [Jungle] tiles>", "[+1] Sight"],
 		},
 {
 		"name": "Incinerate!",
