@@ -1,1 +1,38 @@
-penis
+[
+  {
+    "name": "Little Sister",
+    "unitType": "Civilian",
+    "uniqueTo": "Rapture",
+    "replaces": "Great General",
+    "attackSound": "fire",
+    "uniques": ["[+1] Sight", "Ignores Zone of Control", "[+25]% Strength bonus for [Blitz] units within [2] tiles", "May withdraw before melee ([20]%)", "All adjacent units heal [amount] HP when healing" 
+      "Unable to capture cities", "Great Person - [War]", "Unbuildable"],
+    "movement": 2,
+  },
+	{
+		"name": "Big Daddy",
+		"unitType": "Sword",
+  "uniqueTo": "Rapture",
+  "replaces": "Swordsman",
+		"movement": 2,
+		"strength": 16,
+		"cost": 165,
+  "promotions": ["Amphibious", "Cover I"],
+		"requiredTech": "Engineering",
+		"uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Big Daddy MK2",
+		"unitType": "Sword",
+  "uniqueTo": "Rapture",
+  "replaces": "Longswordsman",
+		"movement": 2,
+		"strength": 24,
+		"cost": 264
+  "promotions": ["Amphibious", "Cover I"],
+		"requiredTech": "Steel",
+		"uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
+		"attackSound": "shot"
+	},
+]
