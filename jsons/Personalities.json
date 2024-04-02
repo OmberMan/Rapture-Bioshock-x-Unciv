@@ -1,1 +1,19 @@
-
+[
+{
+                "name": "Andrew Ryan",
+                "preferredVictoryType": "Cultural",
+                "food": 2,
+                "production": 6,
+                "gold": 10,
+                "culture": 10,
+                "science": 9,
+                "faith": 1,
+                "military": 2,
+                "warMongering": 1,
+"uniques":["Will not build [Faith]"],
+"priorities": {
+    "Autocracy": 30,
+    "Order": 20,
+}
+        }
+]
