@@ -106,7 +106,7 @@
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 50,
 		"requiredTech": "Philosophy",
-		"uniques": ["[+3 Production] per every [5] [Happiness] <in this city>", "[+1 Culture] from all [Gold] buildings <when above [15] Happiness>", "Destroyed when the city is captured"]
+		"uniques": ["[+3 Production] per every [5] [Gold] <in this city>", "[+1 Culture] from all [Gold] buildings <when above [15] Happiness>", "Destroyed when the city is captured"]
 	},
 {
 		"name": "Plasmid - Insect Swarm",
