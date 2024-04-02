@@ -4,6 +4,7 @@
                 "leaderName": "Andrew Ryan",
                 "adjective": ["Objectively Shit"],
                 "preferredVictoryType": "Cultural",
+"startBias": ["Coast"],
                 "style": "Slavic",
 		"personality": "Andrew Ryan",
 
@@ -48,7 +49,7 @@
 "[+1 Science] from [Water] tiles [in all cities]", 
 "[+1 Science] from [{Water} {Resource}] tiles [in all cities]", 
 "[-50]% Food is carried over after population increases [in all cities] <when below [0] Happiness>",
-"Nullifies [Faith] [in all cities]"],
+"Nullifies [Faith] [in all cities]", "Cannot build [Settler] units", "May not annex cities"],
                 
 "cities": ["Rapture", "Mapture", "Fapture", "Capture", "Napture", "Crapture", "Trapture", "Slapture", "Chapture", "Yapture", "Gapture", "Tapture", "Plapture", "Yapture", "Bapture", "oh man alright that's it"]
         }
