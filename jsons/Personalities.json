@@ -10,10 +10,13 @@
                 "faith": 1,
                 "military": 2,
                 "warMongering": 1,
-"uniques":["Will not build [Faith]"],
+"uniques":["Will not build [Faith]", "Will not build [Heroic Epic]", "Will not build [Hospital]"],
 "priorities": {
-    "Autocracy": 30,
-    "Order": 20,
+    "Freedom": 500,
+    "Liberty": 100,
+"Rationalism": 150,
+    "Aesthetics": 50,
+"Commerce": 100,
 }
         }
 ]
