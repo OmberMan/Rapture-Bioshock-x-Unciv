@@ -8,26 +8,61 @@
                 "style": "Slavic",
 		"personality": "Andrew Ryan",
 
-                "startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
-                "startIntroPart2": "'Darkness falls across the land, the midnight hour is close at hand, creatures crawl in search of blood to terrorize y'all's neighborhood' - Vincent Price",
+                "startIntroPart1": "Toe to toe \nDancing very close
+\nBarely breathing
+\nAlmost comatose
+\nWall to wall
+\nPeople hypnotized",
+                "startIntroPart2": "And they're stepping lightly
+\nHang each night in rapture",
 
-                "declaringWar": "Even in a book of lies sometimes you find truth. A season for all things! A time to live and a time to die, a time to build... AND A TIME TO DESTROY!",
+                "declaringWar": "Even in the book of lies, sometimes you find truth. \nA season for all things! A time to live and a time to die, a time to build... AND A TIME TO DESTROY!",
                 "attacked": " I came to this place to build the impossible. You came to rob what you could never build \n- a Hun gaping at the gates of Rome. \n\nEven the air you breathe is sponged from my account; your very life needs leech off my capital, like a tick sucking the lifeblood of Rapture with every breath. \nNow I will suffer you no longer!",
                 "defeated": "You can kill me, but you            have my city. My strength is not                  ,                                                 . A season for all things! A time to                    die!",
                 "introduction": "I am Andrew Ryan, and I'm here to ask you a question. Is a man not entitled to the sweat of his brow? \n'No!' says the man in Washington, 'It belongs to the poor.' 'No!' says the man in the Vatican, 'It belongs to God.' 'No!' says the man in Moscow, 'It belongs to everyone.' \nI rejected those answers; instead, I chose something different. \nI chose the impossible. \nI chose... Rapture, a city where the artist would not fear the censor, where the scientist would not be bound by petty morality, Where the great would not be constrained by the small! And with the sweat of your brow, you can get out. \nRapture is mine: not a sunken ship for you to plunder, and I am not some giddy socialite who can be slapped around by government muscle.",
 
                 "neutralHello": "In the end, what separates a man from a slave? \nMoney? Power? \nNo. A man chooses, and a slave obeys.",
-                "neutralLetsHearIt": "Talk?",
-                "neutralNo": "Bad...",
-                "neutralYes": "Good...",
+                "neutralLetsHearIt": "I am Andrew Ryan, and I'm here to ask you a question.",
+                "neutralNo": "I am Andrew Ryan, and I'm here to ask you a question.",
+                "neutralYes": "I am Andrew Ryan, and I'm here to ask you a question.",
 
                 "hateHello": "Tell me, friend, which one of the bitches sent you? The KGB wolf, or the CIA jackal?",
-                "hateLetsHearIt": "Talk...",
+                "hateLetsHearIt": "Hate!",
                 "hateNo": "Hate!",
-                "hateYes": "Okay...",
+                "hateYes": "I am Hate! Ryan, and I'm here to Hate! you Hate! question.",
 
-                "afterPeace": "Mmmm....good brains.",
-                "tradeRequest": "T-...tr-...trade?",
+                "afterPeace": "Fab Five Freddy told me everybody's fly
+DJ spinnin' I said, "My my"
+Flash is fast, Flash is cool
+François c'est pas, Flash ain't no dude
+And you don't stop, sure shot
+Go out to the parking lot
+And you get in your car and drive real far
+And you drive all night and then you see a light
+And it comes right down and it lands on the ground
+And out comes a man from Mars
+And you try to run but he's got a gun
+And he shoots you dead and he eats your head
+And then you're in the man from Mars
+You go out at night eatin' cars
+You eat Cadillacs, Lincolns too
+Mercurys and Subaru
+And you don't stop, you keep on eatin' cars
+Then, when there's no more cars you go out at night
+And eat up bars where the people meet
+Face to face, dance cheek to cheek
+One to one, man to man
+Dance toe to toe, don't move too slow
+'Cause the man from Mars is through with cars
+He's eatin' bars, yeah wall to wall
+Door to door, hall to hall
+He's gonna eat 'em all
+Rapture, be pure
+Take a tour through the sewer
+Don't strain your brain, paint a train
+You'll be singin' in the rain
+Said don't stop to punk rock",
+                "tradeRequest": "I'm sure you've gathered I have nothing but contempt for you conmen and the mass delusion you refer to as your 'nation'. I believe in no gods, no kings, but there is something more powerful than each of us: a combination of our efforts, a "Great Chain" of industry. \nBut it is only when we struggle in our *own* interest that the chain pulls in the right direction. It is purely for my own benefit that I toss the chain to you; and it is in your own best interests that you pick it up.",
 
                 "outerColor": [12, 112, 97],
                 "innerColor": [250, 205, 10],
