@@ -32,16 +32,24 @@
                 "innerColor": [250, 205, 10],
                 "uniqueName": "No Gods, only man.",
                 "uniques": [
-"[+2 Culture] from every [Artist]", "[+2 Gold] from every [Merchant]", "[+2 Production] from every [Engineer]", "[+2 Science] from every [Scientist]", "[+1 Gold, +1 Culture, +2 Science] from every specialist [in all cities] <during a Golden Age>"
-                        "[+400]% Great Person generation [in all cities]",
-                        "[+400]% maintenance on road & railroads",
-                        "[+400]% maintenance costs <for [All] units>",
-                        "[+400]% Unhappiness from [Specialists] [in all cities]",
-                        "[+400]% Food consumption by specialists [in all cities]", " ", 
-                        "Nullifies [Faith] [in all cities]"],
-                "cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
-                        "Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
-                        "Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
-        },
+"[+2 Culture] from every [Artist]", 
+"[+2 Gold] from every [Merchant]", 
+"[+2 Production] from every [Engineer]", 
+"[+2 Science] from every [Scientist]", 
+"[+1 Gold, +1 Culture, +2 Science] from every specialist [in all cities] <during a Golden Age>", 
+"[+300]% unhappiness from the number of cities", 
+"[+300]% Great Person generation [in all cities]",
+"[+300]% maintenance on road & railroads",
+"[+300]% maintenance costs <for [All] units>",
+"[+300]% Unhappiness from [Specialists] [in all cities]",
+"[+300]% Food consumption by specialists [in all cities]", 
+"[-50]% Production when constructing [All] units [in all cities]",
+"[-50]% Production when constructing [All] buildings [in all cities]", 
+"[+1 Science] from [Water] tiles [in all cities]", 
+"[+1 Science] from [{Water} {Resource}] tiles [in all cities]", 
+"[-50]% Food is carried over after population increases [in all cities] <when below [0] Happiness>",
+"Nullifies [Faith] [in all cities]"],
+                
+"cities": ["Rapture", "Mapture", "Fapture", "Capture", "Napture", "Crapture", "Trapture", "Slapture", "Chapture", "Yapture", "Gapture", "Tapture", "Plapture", "Yapture", "Bapture", "oh man alright that's it"]
+        }
 ]
-//"[stat] cost of purchasing items in cities [relativeAmount]%","[relativeAmount]% Production when constructing [buildingFilter] units [cityFilter]","[relativeAmount]% Production when constructing [buildingFilter] buildings [cityFilter]",
