@@ -1,1 +1,47 @@
-json
+  [     
+    {
+                "name": "Rapture",
+                "leaderName": "Andrew Ryan",
+                "adjective": ["Objectively Shit"],
+                "preferredVictoryType": "Cultural",
+                "style": "Slavic",
+		"personality": "Andrew Ryan",
+
+                "startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
+                "startIntroPart2": "'Darkness falls across the land, the midnight hour is close at hand, creatures crawl in search of blood to terrorize y'all's neighborhood' - Vincent Price",
+
+                "declaringWar": "BRAINS!",
+                "attacked": "Grrr!",
+                "defeated": "Urk!",
+                "introduction": "Brains...",
+
+                "neutralHello": "Brains?",
+                "neutralLetsHearIt": "Talk?",
+                "neutralNo": "Bad...",
+                "neutralYes": "Good...",
+
+                "hateHello": "Grrr...",
+                "hateLetsHearIt": "Talk...",
+                "hateNo": "Hate!",
+                "hateYes": "Okay...",
+
+                "afterPeace": "Mmmm....good brains.",
+                "tradeRequest": "T-...tr-...trade?",
+
+                "outerColor": [12, 112, 97],
+                "innerColor": [250, 205, 10],
+                "uniqueName": "No Gods, only man.",
+                "uniques": [
+"[+2 Culture] from every [Artist]", "[+2 Gold] from every [Merchant]", "[+2 Production] from every [Engineer]", "[+2 Science] from every [Scientist]", "[+1 Gold, +1 Culture, +2 Science] from every specialist [in all cities] <during a Golden Age>"
+                        "[+400]% Great Person generation [in all cities]",
+                        "[+400]% maintenance on road & railroads",
+                        "[+400]% maintenance costs <for [All] units>",
+                        "[+400]% Unhappiness from [Specialists] [in all cities]",
+                        "[+400]% Food consumption by specialists [in all cities]", " ", 
+                        "Nullifies [Faith] [in all cities]"],
+                "cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
+                        "Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
+                        "Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
+        },
+]
+//"[stat] cost of purchasing items in cities [relativeAmount]%","[relativeAmount]% Production when constructing [buildingFilter] units [cityFilter]","[relativeAmount]% Production when constructing [buildingFilter] buildings [cityFilter]",
