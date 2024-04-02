@@ -4,59 +4,116 @@
   "replaces": "Palace",
 		"uniqueTo": "Rapture",
 		"isNationalWonder": true,
-  "specialistSlots": {"Engineer": 1},
+  "specialistSlots": {"Engineer": 1, "Merchant": 1},
 		"production": 3,
 		"science": 3,
 		"gold": 3,
 		"culture": 1,
-		"cityStrength": 5,
+		"cityStrength": 2,
 		"cost": 1,
-		"uniques": ["Indicates the capital city"]
+		"uniques": ["Indicates the capital city", "[Gold] cost of purchasing items in cities [-33]%"]
 	},
 	{
-		"name": "Circus Maximus",
+    "name": "Bathysphere"
+		"uniqueTo": "Rapture",
+		"replaces": "Grand Temple",
 		"cost": 125,
-		"happiness": 5,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Horseback Riding"
+"cityStrength": 4,
+		"cityHealth": 125,
+  "Maintenance": 3,
+		"uniques": [ "Can only be built <in [Coastal] cities>", "Can only be built <in cities with a [Ryan Industries]>", "Never destroyed when the city is captured", "Connects trade routes over water", "Automatically built in all cities where it is buildable" ],
+		"requiredTech": "Agriculture",
+		"isNationalWonder": true
 	},
-	{
-		"name": "National College",
-		"cost": 125,
-		"science": 3,
-		"culture": 1,
+{
+		"name": "Fontaine Futuristics",
+		"cost": 150,
+    "replaces": "Heroic Epic",
+		"uniqueTo": "Rapture",
+    "greatPersonPoints": {"Great General": 1},
+   "percentStatBonus": {"gold": 20},
+     "specialistSlots": {"Scientist": 1, "Merchant": 2},
 		"isNationalWonder": true,
+		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "May buy [Plasmid] buildings for [250] [Gold] [in all cities]", "[+25]% Unhappiness from [Population] [in all cities]"],
+		"requiredTech": "Mathematics"
+	},
+{
+		"name": "Arcadia",
+		"cost": 225,
+    "specialistSlots": {"Scientist": 1},
+		"happiness": 4,
+    "food": 2,
+    "replaces": "Circus Maximus",
+		"uniqueTo": "Rapture",
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city", "[+25]% [Food] [in this city]", "[+2 Culture] from [Great Improvements] tiles [in this city]" ],
+		"requiredTech": "Engineering"
+	},
+{
+		"name": "Fort Frolic",
+		"cost": 200,
+		"culture": 4,
+  "replaces": "National Epic",
+		"uniqueTo": "Rapture",
+    "happiness": 2,
+    "maintenance": 2,
+    "specialistSlots": {"Artist": 2, "Merchant": 1},
+ "greatPersonPoints": {"Great Artist": 1},
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in this city]", "Enables conversion of city production to [Culture]", " Production to [Culture] conversion in cities changed by [+100]%", "[+1] Happiness from each type of luxury resource"],
+		"requiredTech": "Drama and Poetry"
+	},
+{
+		"name": "Point Prometheus",
+		"cost": 250,
+		"science": 2,
+"replaces": "National College",
+		"uniqueTo": "Rapture",
+		"isNationalWonder": true,
+    "Maintenance": 1,
+      "specialistSlots": {"Scientist": 2, "Engineer": 1},
+ "greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},
-		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", " May buy [Next-Gen Plasmid] buildings for [350] [Gold] [in all cities]", "Can only be built <in cities with a [Fontaine Futuristics]>", 	"[+1 Science] from [Water resource] tiles [in this city]",],
 		"requiredTech": "Philosophy"
 	},
-	{
-		"name": "Heroic Epic",
-		"cost": 125,
-		"culture": 1,
+{
+		"name": "Hepatheseus",
+		"cost": 275,
+		"production": 6,
+  "specialistSlots": {"Engineer": 2,},
+  "Maintenance": 2
+ "greatPersonPoints": {"Great Engineer": 1},
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>", "All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion",
-			"Cost increases by [30] per owned city"],
-		"requiredTech": "Iron Working"
+		"uniques": ["Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>",  "[+2 Production] from [Water] tiles [in this city]", "[+15]% Production when constructing [World] wonders [in this city]" ],
+		"requiredTech": "Machinery"
 	},
 	{
-		"name": "National Treasury",
-		"cost": 125,
-		"gold": 8,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
-		"requiredTech": "Guilds"
+		"name": "Monument to Man",
+  "replaces": "Shrine",
+		"uniqueTo": "Rapture",
+		"Happiness": 1,
+		"cost": 40,
+		"maintenance": 1,
+		"requiredTech": "Pottery",
+		"uniques": ["[+25 Culture] whenever a Great Person is expended"]
 	},
-	{
-		"name": "Oxford University",
-		"cost": 125,
-		"science": 3,
-		"culture": 1,
-		"isNationalWonder": true,
-		"uniques": ["Only available <if [University] is constructed in all [non-[Puppeted]] cities>", "Free Technology", "Cost increases by [30] per owned city"],
-		"requiredTech": "Education"
+{
+		"name": "'The Great Chain' - Andrew Cohen",
+  "replaces": "Temple",
+		"uniqueTo": "Rapture",
+    "culture": 1,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 50,
+		"requiredTech": "Philosophy",
+		"uniques": ["[+3 Production] per every [5] [Happiness] <in this city>", "[+1 Culture] from all [Gold] buildings <when above [15] Happiness>", "Destroyed when the city is captured"]
+	},
+{
+		"name": "Plasmid - Insect Swarm",
+		"cost": 250,
+		"uniqueTo": "Rapture",
+   "percentStatBonus": {"gold": 5, "food": 20, "production": 5, "culture": 10, "science": 10},
+		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "May buy [Plasmid] buildings for [250] [Gold] [in all cities]", "[+50]% Unhappiness from [Population] [in this city]"],
+		"requiredTech": "Mathematics"
 	},
 ]
