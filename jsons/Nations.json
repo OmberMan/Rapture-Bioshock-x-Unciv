@@ -64,7 +64,7 @@ You'll be singin' in the rain
 Said don't stop to punk rock",
                 "tradeRequest": "I'm sure you've gathered I have nothing but contempt for you conmen and the mass delusion you refer to as your 'nation'. I believe in no gods, no kings, but there is something more powerful than each of us: a combination of our efforts, a Great Chain of industry. \nBut it is only when we struggle in our *own* interest that the chain pulls in the right direction. It is purely for my own benefit that I toss the chain to you; and it is in your own best interests that you pick it up.",
 
-                "outerColor": [9, 84, 65],
+                "outerColor": [9, 72, 54],
                 "innerColor": [240, 205, 10],
                 "uniqueName": "No Gods, only man.",
                 "uniques": [
@@ -73,17 +73,21 @@ Said don't stop to punk rock",
 "[+2 Production] from every [Engineer]", 
 "[+2 Science] from every [Scientist]", 
 "[+1 Gold, +1 Culture, +2 Science] from every specialist [in all cities] <during a Golden Age>", 
-"[+100]% unhappiness from the number of cities", 
+"[+100]% Unhappiness from [Population] [in all cities]", 
 "[+300]% Great Person generation [in all cities]",
 "[+300]% maintenance on road & railroads",
 "[+300]% maintenance costs <for [All] units>",
 "[+300]% Unhappiness from [Specialists] [in all cities]",
 "[+300]% Food consumption by specialists [in all cities]", 
 "[-50]% Production when constructing [All] units [in all cities]",
-"[-50]% Production when constructing [All] buildings [in all cities]", 
 "[+1 Science] from [Water] tiles [in all cities]", 
 "[-100] [Faith] [in all cities]", "Cannot build [Settler] units", "May not annex cities"],
+
+"uniqueText":"This is gonna be a mouthful. So is The Fountainhead. Let's get to it;
+\n\nCannot build settlers, annex cities, or utilize [Faith].
+\n\nAll Specialists produce +2 of their respective yields, plus +2 [Science] and +1 [Culture] & [Gold] during Golden Ages. \n\n4x Great Person generation, \nUnhappiness and [Food] consumption by specialists, \nand maintenance cost for units and Roads (derogatory). \n\n2x Unhappiness from population and 1/2x Unit production speed. \n\n+1 [Science] from Oceans/Coasts. \n\nGain various bonuses, including the ability to enhance your units with ADAM, through the indirect power of moral solipsism and epistemological nonsense.",
                 
 "cities": ["Rapture", "Mapture", "Fapture", "Capture", "Napture", "Crapture", "Trapture", "Slapture", "Chapture", "Yapture", "Gapture", "Tapture", "Plapture", "Yapture", "Bapture", "oh man alright that's it"]
         }
 ]
+//"[-50]% Production when constructing [All] buildings [in all cities]", 
