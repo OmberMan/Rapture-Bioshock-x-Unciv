@@ -10,7 +10,7 @@
                 "faith": 1,
                 "military": 2,
                 "warMongering": 1,
-"uniques":["Will not build [Faith]", "Will not build [Hospital]"],
+"uniques":["Will not build [Faith]", "Will not build [Hospital]", "Will not build [Settler]"],
 "priorities": {
     "Freedom": 500,
     "Liberty": 100,
