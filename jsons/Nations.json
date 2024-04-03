@@ -101,7 +101,7 @@ Said don't stop to punk rock",
 		"innerColor": [235,245,249],
 		"cities": ["Columnia"],
 		"leaderName": "Zachary Cumsock",
-		"unqiues": ["Reveal up to [3] [Farm] within a [3] tile radius", "Gain [40] [Faith] (modified by game speed) <upon constructing [Culture] [in capital]>", "Gain [0]-[40] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings <during a Golden Age>","[+2 Faith] from all [Wonder] buildings <during a Golden Age>", "[+150]% unhappiness from the number of cities"]
+		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "[+1 Faith] per every [3] [Science] <during a Golden Age", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings","[+2 Faith, +1 Culture] from all [Wonder] buildings", "[+²50]% unhappiness from the number of cities", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [American Exceptionalism] promotion", "Free [Gyroblimp]  appears <upon gaining a [Civilian] unit>", "[-20]% growth [in all cities]"]
 	},
 ]
 //"[-50]% Production when constructing [All] buildings [in all cities]", 
