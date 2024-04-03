@@ -91,7 +91,7 @@ Said don't stop to punk rock",
         },
 	{
 		"name": "Columbia",
-		"adjective": ["Flat"],
+		"adjective": ["One note"],
 		"cityStateType": "Religious",
 
 		"declaringWar": "The seed of the prophet shall sit the throne, and drown in flame the mountains of man.",
@@ -101,7 +101,7 @@ Said don't stop to punk rock",
 		"innerColor": [235,245,249],
 		"cities": ["Columnia"],
 		"leaderName": "Zachary Cumsock",
-		"",
+		"unqiues": ["Reveal up to [3] [Farm] within a [3] tile radius", "Gain [40] [Faith] (modified by game speed) <upon constructing [Culture] [in capital]>", "Gain [0]-[40] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings <during a Golden Age>","[+2 Faith] from all [Wonder] buildings <during a Golden Age>", "[+150]% unhappiness from the number of cities"]
 	},
 ]
 //"[-50]% Production when constructing [All] buildings [in all cities]", 
