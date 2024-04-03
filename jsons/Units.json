@@ -24,9 +24,9 @@
         },
         {
                 "name": "Big Daddy MK2",
-                "unitType": "Musketman",
+                "unitType": "Sword",
   "uniqueTo": "Rapture",
-  "replaces": "Marine",
+  "replaces": "Musketman",
                 "movement": 1, 
                 "strength": 29,
                 "cost": 225,
