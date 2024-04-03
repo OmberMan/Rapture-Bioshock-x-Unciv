@@ -5,7 +5,7 @@
 		},
 {
 		"name": "Incinerate!",
-		"uniques": ["[+20]% Strength <when attacking>", "[+40]% Strength", "[+25]% Strength <vs [Siege] units> <when attacking>", "[+25]% Strength <when fighting in [Desert] tiles>","[+33]% Strength <when fighting in [Forest] tiles> <when attacking>","[+20]% Strength <when attacking> <when fighting in [Jungle] tiles>","[-10]% Strength <when fighting in [Coastal] tiles>","[-33]% Strength <when fighting in [Tundra] tiles>","[-50]% Strength <when fighting in [Snow] tiles>","[+25]% Strength <vs [Naval] units> <when attacking>","[+25]% Strength <vs cities> <when attacking>","Destroys tile improvements when attacking", "[-15]% Strength for enemy [Land] units in adjacent [Forest] tiles", "Blast radius [2]", "ADAM Enhanced"],
+		"uniques": ["[+30]% Strength <when attacking>", "[+35]% Strength", "[+30]% Strength <vs [Siege] units> <when attacking>", "[+35]% Strength <when fighting in [Desert] tiles>","[+25]% Strength <when fighting in [Forest] tiles> <when attacking>","[+20]% Strength <when attacking> <when fighting in [Jungle] tiles>","[-15]% Strength <when fighting in [Coastal] tiles>","[-30]% Strength <when fighting in [Tundra] tiles>","[-45]% Strength <when fighting in [Snow] tiles>","[+30]% Strength <vs [Naval] units> <when attacking>","[+25]% Strength <vs cities> <when attacking>","Destroys tile improvements when attacking", "[-15]% Strength for enemy [Land] units in adjacent [Forest] tiles", "Blast radius [2] <for [Ranged] units>", "ADAM Enhanced"],
 		},
 {
 		"name": "Electro Bolt",
