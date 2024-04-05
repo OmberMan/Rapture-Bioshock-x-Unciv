@@ -99,9 +99,9 @@ Said don't stop to punk rock",
 		"defeated": "Aha, fooled ya! It was me, Frank 'Fozzie' Fontaine all along, nyeh see! You actually bought into all that crazy Colombia crap? What a chump! It was all another one of my dastardly schemes to steal Rapture. You might've foiled me this time pal, but this ain't over; looks like I got a giant mechanical bird to catch, nyaah haa ha! See ya around, dipshit",
 		"outerColor": [0, 0, 0],
 		"innerColor": [235,245,249],
-		"cities": ["Columnia"],
+		"cities": ["Columbia"],
 		"leaderName": "Zachary Cumsock",
-		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "[+1 Faith] per every [3] [Science] <during a Golden Age", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings","[+2 Faith, +1 Culture] from all [Wonder] buildings", "[+²50]% unhappiness from the number of cities", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [American Exceptionalism] promotion", "Free [Gyroblimp]  appears <upon gaining a [Civilian] unit>", "[-20]% growth [in all cities]"]
+		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "[+1 Faith] per every [3] [Science] <during a Golden Age", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings","[+2 Faith, +1 Culture] from all [Wonder] buildings", "[+²50]% unhappiness from the number of cities", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [American Exceptionalism] promotion", "Free [Airship] appears <upon entering a new era>", "[-20]% growth [in all cities]"]
 	},
 ]
 //"[-50]% Production when constructing [All] buildings [in all cities]", 
