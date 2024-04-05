@@ -2,17 +2,15 @@
 	{
         "name": "Exeptionalist",
         "friendBonusUniques": [
-"[+2 Faith] from all [Culture] buildings <before the [Medieval era]>",
-"[+3 Faith, +1 Science] from all [Culture] buildings <starting from the [Medieval era]> <before the [Industrial era]>",
-"[+6 Faith, +3 Science] from all [Culture] buildings <starting from the [Industrial era]>",
-"[+1 Faith, +1 Science] from all [Wonder] buildings <during a Golden Age> <before the [Medieval era]>",
-"[+2 Faith, +2 Science] [stats] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
-"[+4 Culture] [stats] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
-"[+1 Faith] from all [Culture] buildings <before the [Medieval era]>",
-"[+3 Faith] from all [Culture] buildings <starting from the [Medieval era]> <before the [Industrial era]>",
-"[+6 Culture] from all [Culture] buildings <starting from the [Industrial era]>",
-			"[+5]% [Culture] from every [Monument]",
-			"[+5]% [Culture] from every [Amphitheater]"
+"[+2 Faith, +1 Science] from all [Wonder] buildings <before the [Medieval era]>",
+"[+5 Faith, +3 Science] from all [Culture] buildings <starting from the [Medieval era]> <before the [Industrial era]>",
+"[+12 Faith, +8 Science] from all [Wonder] buildings <starting from the [Industrial era]>",
+"[+2 Faith, +1 Happiness] from all [Culture] buildings <during a Golden Age> <before the [Medieval era]>",
+"[+3 Faith, +2 Happiness] [stats] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
+"[+5 Faith +3 Happiness] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
+"[+1 Faith] from all [Wonder] buildings <before the [Medieval era]>",
+"[+3 Faith] from all [Wonder] buildings <starting from the [Medieval era]> <before the [Industrial era]>",
+"All newly-trained [baseUnitFilter] units [cityFilter] receive the [promotion] promotion"
         ],
         "allyBonusUniques": [
             "[+6 Culture] <before the [Medieval era]>",
@@ -28,3 +26,4 @@
         "color": [139, 96, 255]
     }
 ]
+//in all cities with a world wonder
