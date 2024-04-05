@@ -2,28 +2,21 @@
 	{
         "name": "Exeptionalist",
         "friendBonusUniques": [
-"[+2 Faith, +1 Science] from all [Wonder] buildings <before the [Medieval era]>",
-"[+5 Faith, +3 Science] from all [Culture] buildings <starting from the [Medieval era]> <before the [Industrial era]>",
-"[+12 Faith, +8 Science] from all [Wonder] buildings <starting from the [Industrial era]>",
+"[+15]% [Faith] from every [Wonder]", "[+10]% [Science] from every [Wonder]", 
 "[+2 Faith, +1 Happiness] from all [Culture] buildings <during a Golden Age> <before the [Medieval era]>",
-"[+3 Faith, +2 Happiness] [stats] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
-"[+5 Faith +3 Happiness] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
-"[+1 Faith] from all [Wonder] buildings <before the [Medieval era]>",
-"[+3 Faith] from all [Wonder] buildings <starting from the [Medieval era]> <before the [Industrial era]>",
-"All newly-trained [baseUnitFilter] units [cityFilter] receive the [promotion] promotion"
+"[+3 Faith, +2 Happiness] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
+"[+5 Faith, +3 Happiness] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
         ],
         "allyBonusUniques": [
-            "[+6 Culture] <before the [Medieval era]>",
-            "[+12 Culture] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+26 Culture] <starting from the [Industrial era]>",
-			"[+8]% [Culture] from every [Monument]",
-			"[+8]% [Culture] from every [Amphitheater]",				
-			"[+5]% [Culture] from every [Opera House]",
-			"[+5]% [Culture] from every [Museum]",
+            "[+20]% [Faith] from every [Wonder]", "[+15]% [Science] from every [Wonder]", 
+"[+3 Faith, +1 Happiness, +1 Science] from all [Culture] buildings <during a Golden Age> <before the [Medieval era]>",
+"[+4 Faith, +2 Happiness, +2 Science] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
+"[+5 Faith, +3 Happiness, +3 Science] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
            "Provides [1] [Great School of Arts res]", "[Composite Bowman] units gain the [Sagittaria] promotion", 
-            "Unique Building [Great School of Arts]", "Unique Unit [Sagittaria]"
+            "All newly-trained [Sword] units [in all cities] receive the [Promotion] promotion", "All newly-trained [baseUnitFilter] units [cityFilter] receive the [promotion] promotion"
         ],
         "color": [139, 96, 255]
     }
 ]
 //in all cities with a world wonder
+// "[+15]% [Faith] from every [Wonder]", "[+10]% [Science] from every [Wonder]", 
