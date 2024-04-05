@@ -9,7 +9,7 @@
 		},
 {
 		"name": "Electro Bolt",
-		"uniques": ["[+50]% Strength <when fighting in [Open terrain] tiles>", "[+1] additional attacks per turn", "[+33]% Strength", "[+33]% Strength <vs [mapUnitFilter] units>", "Ranged attacks may be performed over obstacles", "ADAM Enhanced", "[+50]% XP gained from combat"],
+		"uniques": ["[-20]% Strength <when fighting in [Open terrain] tiles>", "[+1] additional attacks per turn", "[+20]% Strength", "[+40]% Strength <when attacking>",  "[+33]% Strength <vs [Naval] units>", "Ranged attacks may be performed over obstacles", "ADAM Enhanced", "[+50]% XP gained from combat"],
 		},
 	{
 		"name": "Ishim",
