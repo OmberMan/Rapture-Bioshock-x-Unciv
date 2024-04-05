@@ -51,4 +51,22 @@
 		"uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
 		"attackSound": "horse"
 	},
+{
+		"name": "Airship",
+		"uniqueTo": "Columbia",
+		"replaces": "Lancer",
+		"unitType": "Siege",
+		"movement": 4,
+		"strength": 21,
+  "rangedStrength": 25,
+  "range": 1,
+		"cost": 275,
+		"requiredTech": "Chemistry",
+		"uniques": ["Can pass through impassable tiles", "All tiles cost 1 movement", "Can see over obstacles", "Ignores Zone of Control", "May withdraw before melee ([90]%)","No defensive terrain bonus", "[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Armored] units>", "[-25]% Strength <vs [Gunpowder] units> <when defending>", "Must set up to ranged attack", "[-25]% Strength <vs [Ranged Gunpowder] units> <when defending>", "[-15]% Strength <vs [Ranged] units> <when defending>", "Transfer Movement to [Civilian]", "[-90]% Strength <vs [Air] units>", "Eliminates combat penalty for attacking across a coast", "[+2] Sight", "[-10] HP when healing", "Can move after attacking", "Unable to capture cities", "No defensive terrain penalty", "Normal vision when embarked"],
+		"hurryCostModifier": 35,
+		"attackSound": "bomber",
+		"civilopediaText": [
+			{"text": "towal war wargammber"},
+        ]
+	},
 ]  
