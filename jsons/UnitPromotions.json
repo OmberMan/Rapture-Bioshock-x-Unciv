@@ -12,8 +12,12 @@
 		"uniques": ["[+50]% Strength <when fighting in [Open terrain] tiles>", "[+1] additional attacks per turn", "[+33]% Strength", "[+33]% Strength <vs [mapUnitFilter] units>", "Ranged attacks may be performed over obstacles", "ADAM Enhanced"],
 		},
 	{
-		"name": "American Exceptionalism",
+		"name": "Ishim",
 		"uniques": ["Prevents spreading of religion to the city it is next to", "May Paradrop up to [7] tiles from inside friendly territory"],
 	},
 
+{
+		"name": "Divine Wrath",
+		"uniques": ["Earn [100]% of killed [All] unit's [Strength] as [Faith]", "May Paradrop up to [7] tiles from inside friendly territory"],
+	},
 ]
