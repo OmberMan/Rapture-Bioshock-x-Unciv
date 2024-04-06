@@ -81,6 +81,8 @@ Said don't stop to punk rock",
 "[+300]% Food consumption by specialists [in all cities]", 
 "[-50]% Production when constructing [All] units [in all cities]",
 "[+1 Science] from [Water] tiles [in all cities]", 
+"Defense bonus when embarked",
+"[-2] population in a random city <upon constructing [Plasmid] [in all cities]>",
 "[-100] [Faith] [in all cities]", "Cannot build [Settler] units", "May not annex cities"],
 
 "uniqueText":"This is gonna be a mouthful. So is The Fountainhead. Let's get to it;
@@ -101,7 +103,7 @@ Said don't stop to punk rock",
 		"innerColor": [235,245,249],
 		"cities": ["Columbia"],
 		"leaderName": "Zachary Cumsock",
-		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "[+1 Faith] per every [3] [Science] <during a Golden Age", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings","[+2 Faith, +1 Culture] from all [Wonder] buildings", "[+²50]% unhappiness from the number of cities", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [American Exceptionalism] promotion", "Free [Airship] appears <upon entering a new era>", "[-20]% growth [in all cities]"]
+		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "[+1 Faith] per every [3] [Science] <during a Golden Age", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings","[+2 Faith, +1 Culture] from all [Wonder] buildings", "[+50]% unhappiness from the number of cities", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [American Exceptionalism] promotion", "Free [Airship] appears <upon entering a new era>", "[-20]% growth [in all cities]"]
 	},
 ]
 //"[-50]% Production when constructing [All] buildings [in all cities]", 
