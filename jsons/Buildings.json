@@ -31,10 +31,9 @@
     "replaces": "Heroic Epic",
 		"uniqueTo": "Rapture",
     "greatPersonPoints": {"Great General": 1},
-   "percentStatBonus": {"gold": 20},
      "specialistSlots": {"Scientist": 1, "Merchant": 2},
 		"isNationalWonder": true,
-		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "May buy [Plasmid] buildings for [500] [Gold] [in all cities]", "[+25]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "[+25]% [Food] [in this city]", "May buy [Plasmid] buildings for [500] [Gold] [in all cities]", "[+25]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Mathematics"
 	},
 {
@@ -70,11 +69,11 @@
 "replaces": "National College",
 		"uniqueTo": "Rapture",
 		"isNationalWonder": true,
-    "Maintenance": 1,
-      "specialistSlots": {"Scientist": 2, "Engineer": 1},
+    "Maintenance": 3,
+      "specialistSlots": {"Scientist": 2},
  "greatPersonPoints": {"Great Scientist": 1},
 		"percentStatBonus": {"science": 50},
-		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", " May buy [Next-Gen Plasmid] buildings for [700] [Gold] [in all cities]", "Can only be built <in cities with a [Fontaine Futuristics]>", 	"[+1 Science] from [Water resource] tiles [in this city]",],
+		"uniques": ["Only available <if [Library] is constructed in all [non-[Puppeted]] cities>", " May buy [Next-Gen Plasmid] buildings for [700] [Gold] [in all cities]", "Can only be built <in cities with a [Fontaine Futuristics]>", 	"[+1 Science] from [Water resource] tiles [in this city]"],
 		"requiredTech": "Philosophy"
 	},
 {
@@ -103,7 +102,7 @@
 		"name": "'The Great Chain' - Andrew Cohen",
   "replaces": "Temple",
 		"uniqueTo": "Rapture",
-    "culture": 1,
+  "culture": 1,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 50,
 		"requiredTech": "Philosophy",
