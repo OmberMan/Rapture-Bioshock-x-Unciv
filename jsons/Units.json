@@ -20,7 +20,7 @@
   "promotions": ["Amphibious"],
                 "requiredTech": "Iron Working",
                 "uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
-                "attackSound": "horse"
+                "attackSound": "drill"
         },
         {
                 "name": "Big Daddy MK2",
@@ -35,7 +35,7 @@
                 "requiredTech": "Gunpowder",
                 "upgradesTo": "Big Daddy MK3",
                 "uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
-                "attackSound": "horse"
+                "attackSound": "drill"
         },
 	{
 		"name": "Big Daddy MK3",
@@ -49,7 +49,7 @@
   "promotions": ["Amphibious"],
 		"requiredTech": "Plastics",
 		"uniques": ["May create improvements on water resources", "[+67]% Strength when stacked with [Little Sister]", "Unable to capture cities", "Damage is ignored when determining unit Strength", "[1] Sight", "[+20]% Strength <when defending>", "No defensive terrain bonus", "[-99]% XP gained from combat",  "[-5]% Strength for enemy [Military] units in adjacent [All] tiles", "May travel on Water tiles without embarking"],
-		"attackSound": "horse"
+		"attackSound": "drill"
 	},
 {
 		"name": "Airship",
