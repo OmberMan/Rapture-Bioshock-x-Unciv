@@ -88,7 +88,7 @@
 		"requiredTech": "Machinery"
 	},
 	{
-		"name": "Monument to Man",
+		"name": "Monument to Mankind's Achievement",
   "replaces": "Shrine",
 		"uniqueTo": "Rapture",
 		"Happiness": 1,
