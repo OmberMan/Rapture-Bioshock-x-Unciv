@@ -6,6 +6,9 @@
     "replaces": "Great General",
     "uniques": ["[+1] Sight", "Ignores Zone of Control", "[+33]% Strength bonus for [ADAM Enhanced] units within [2] tiles", "Can hurry technology research", "May withdraw before melee ([20]%)", "All adjacent units heal [+20] HP when healing", "Transfer Movement to [Big Daddy]", "Great Person - [War]", "Unbuildable"],
     "movement": 2,
+	  "civilopediaText": [
+			{"text": "You are a terrible person."},
+        ]
   },
         {
                 "name": "Big Daddy",
