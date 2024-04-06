@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Insect Swarm",
-		"uniques": ["[-20]% Strength for enemy [Sword] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Mounted] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Archery] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Gunpowder] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Ranged Gunpowder] units in adjacent [non-[Snow]] tiles", "[-5]% Strength for enemy [Wounded] units in adjacent [non-[Snow]] tiles", "Heals [15] damage if it kills a unit", "No movement cost to pillage", "[+100]% to Flank Attack bonuses", "[+33]% Strength <when fighting in [Jungle] tiles>", "[+1] Sight", "ADAM Enhanced", "[+50]% XP gained from combat"],
+		"uniques": ["[-20]% Strength for enemy [Sword] units in adjaent [non-[Snow]] tiles", "[-20]% Strength for enemy [Mounted] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Archery] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Gunpowder] units in adjacent [non-[Snow]] tiles", "[-20]% Strength for enemy [Ranged Gunpowder] units in adjacent [non-[Snow]] tiles", "[-10]% Strength for enemy [Wounded] units in adjacent [non-[Snow]] tiles", "Heals [15] damage if it kills a unit", "No movement cost to pillage", "[+100]% to Flank Attack bonuses", "[+33]% Strength <when fighting in [Jungle] tiles>", "[+1] Sight", "ADAM Enhanced", "[+50]% XP gained from combat"],
 		},
 {
 		"name": "Incinerate!+",
@@ -10,6 +10,10 @@
 {
 		"name": "Electro Bolt+",
 		"uniques": ["[+50]% Strength <when fighting in [Water] tiles> <when attacking>", "[-26]% Strength <when fighting in [Forest] tiles> <when attacking>", "[-25]% Strength <when fighting in [Jungle] tiles> <when attacking>", "[+1] additional attacks per turn", "[+25]% Strength <when defending> <vs [Melee] units>", "[+40]% Strength <when attacking>", "Ranged attacks may be performed over obstacles", "ADAM Enhanced", "[-75]% XP gained from combat", "This Unit loses the [Electro Bolt+] promotion <upon being promoted>", "[-75]% XP gained from combat"],
+		},
+{
+		"name": "Telekinesis+",
+		"uniques": ["[+25]% Strength", "[+50]% Strength <when defending> <vs [Ranged] units>", "Can see over obstacles", "Can see invisible [All] units", "[+1] Range", "Ranged attacks may be performed over obstacles", "ADAM Enhanced", "[-75]% XP gained from combat", "This Unit loses the [Telekinesis+] promotion <upon being promoted>", "[-75]% XP gained from combat"],
 		},
 	{
 		"name": "Ishim",
