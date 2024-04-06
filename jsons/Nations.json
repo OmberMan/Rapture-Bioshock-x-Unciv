@@ -85,8 +85,7 @@ Said don't stop to punk rock",
 "[-2] population in a random city <upon constructing [Plasmid] [in all cities]>",
 "[-100] [Faith] [in all cities]", "Cannot build [Settler] units", "May not annex cities"],
 
-"uniqueText":"This is gonna be a mouthful. So is The Fountainhead. Let's get to it;
-\n\nCannot build settlers, annex cities, or utilize [Faith].
+"uniqueText":"Cannot build settlers, annex cities, or utilize [Faith].
 \n\nAll Specialists produce +2 of their respective yields, plus +2 [Science] and +1 [Culture] & [Gold] during Golden Ages. \n\n4x Great Person generation, \nUnhappiness and [Food] consumption by specialists, \nand maintenance cost for units and Roads (derogatory). \n\n2x Unhappiness from population and 1/2x Unit production speed. \n\n+1 [Science] from Oceans/Coasts + defense bonus when embarked. \n\nUnique National wonders give various benefits, including the ability to enhance your units with ADAM, through moral solipsism and epistemological slop: distributing different plasmids will gives your units extremely powerful buffs at the cost of one of your citizens and the long term health of the city. Also take into account that after enough in combat the ADAM should wear off each unit, and the withdrawal is not pleasant.",
                 
 "cities": ["Rapture", "Mapture", "Fapture", "Capture", "Napture", "Crapture", "Trapture", "Slapture", "Chapture", "Yapture", "Gapture", "Tapture", "Plapture", "Yapture", "Bapture", "oh man alright that's it"]
