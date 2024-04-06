@@ -77,7 +77,7 @@
 		"requiredTech": "Philosophy"
 	},
 {
-		"name": "Hepatheseus",
+		"name": "Hephaestus Power Facility",
 		"cost": 275,
 		"production": 6,
   "specialistSlots": {"Engineer": 2},
