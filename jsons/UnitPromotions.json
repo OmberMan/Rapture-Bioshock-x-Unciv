@@ -5,11 +5,11 @@
 		},
 {
 		"name": "Incinerate!",
-		"uniques": ["[+30]% Strength <when attacking>", "[+35]% Strength", "[+30]% Strength <vs [Siege] units> <when attacking>", "[+35]% Strength <when fighting in [Desert] tiles>","[+25]% Strength <when fighting in [Forest] tiles> <when attacking>","[+20]% Strength <when attacking> <when fighting in [Jungle] tiles>","[-15]% Strength <when fighting in [Coastal] tiles>","[-30]% Strength <when fighting in [Tundra] tiles>","[-45]% Strength <when fighting in [Snow] tiles>","[+30]% Strength <vs [Naval] units> <when attacking>","[+25]% Strength <vs cities> <when attacking>","Destroys tile improvements when attacking", "[-15]% Strength for enemy [Land] units in adjacent [Forest] tiles", "Blast radius [2] <for [Ranged] units>", "ADAM Enhanced", "[+50]% XP gained from combat"],
+		"uniques": ["[+33]% Strength <when attacking>", "[+33]% Strength <when defending> <vs [Melee] units>", "[+20]% Strength <vs [Siege] units> <when attacking>", "[+15]% Strength <when fighting in [Desert] tiles>","[+25]% Strength <when fighting in [Forest] tiles> <when attacking>","[+20]% Strength <when attacking> <when fighting in [Jungle] tiles>","[-50]% Strength <when fighting in [Water] tiles> <when attacking>","[-20]% Strength <when fighting in [Tundra] tiles>","[-40]% Strength <when fighting in [Snow] tiles>","[+20]% Strength <vs cities> <when attacking>","Destroys tile improvements when attacking", "[-5]% Strength for enemy [Land] units in adjacent [Forest] tiles", "Blast radius [2] <for [Ranged] units>", "ADAM Enhanced", "[+50]% XP gained from combat"],
 		},
 {
 		"name": "Electro Bolt",
-		"uniques": ["[-20]% Strength <when fighting in [Open terrain] tiles>", "[+1] additional attacks per turn", "[+20]% Strength", "[+40]% Strength <when attacking>",  "[+33]% Strength <vs [Naval] units>", "Ranged attacks may be performed over obstacles", "ADAM Enhanced", "[+50]% XP gained from combat"],
+		"uniques": ["[+50]% Strength <when fighting in [Water] tiles> <when attacking>", "[-20]% Strength <when fighting in [Forest] tiles> <when attacking>", "[-20]% Strength <when fighting in [Jungle] tiles> <when attacking>", "[+1] additional attacks per turn", "[+20]% Strength <when defending> <vs [Melee] units>", "[+40]% Strength <when attacking>", "Ranged attacks may be performed over obstacles", "ADAM Enhanced", "[+50]% XP gained from combat"],
 		},
 	{
 		"name": "Ishim",
