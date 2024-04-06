@@ -132,7 +132,7 @@
 		"cost": 100,
 "Happiness": 2,
 		"uniqueTo": "Rapture",
-   "percentStatBonus": {"food":25, "production": 20, "culture": 5,},
+   "percentStatBonus": {"food":25, "production": 20, "culture": 5},
 		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>","Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Enrage] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Enrage] promotion", "[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
 		"requiredTech": "Mathematics"
 	},
