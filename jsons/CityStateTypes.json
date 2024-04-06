@@ -2,13 +2,13 @@
 	{
         "name": "Exeptionalist",
         "friendBonusUniques": [
-"[+15]% [Faith] from every [Wonder]", "[+10]% [Science] from every [Wonder]", 
+"[+15]% [Faith] from every [Wonder]", "[+2] [Science] from every [Wonder]", 
 "[+2 Faith, +1 Happiness] from all [Culture] buildings <during a Golden Age> <before the [Medieval era]>",
 "[+3 Faith, +2 Happiness] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
 "[+5 Faith, +3 Happiness] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
         ],
         "allyBonusUniques": [
-            "[+20]% [Faith] from every [Wonder]", "[+15]% [Science] from every [Wonder]", 
+            "[+20]% [Faith] from every [Wonder]", "[+4] [Science] from every [Wonder]", 
 "[+3 Faith, +1 Happiness, +1 Science] from all [Culture] buildings <during a Golden Age> <before the [Medieval era]>",
 "[+4 Faith, +2 Happiness, +2 Science] from all [Culture] buildings <during a Golden Age> <starting from the [Medieval era]> <before the [Industrial era]>",
 "[+5 Faith, +3 Happiness, +3 Science] from all [Culture] buildings <during a Golden Age> <starting from the [Industrial era]>",
