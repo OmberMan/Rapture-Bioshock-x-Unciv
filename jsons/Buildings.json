@@ -14,7 +14,7 @@
 		"uniques": ["Indicates the capital city", "[Gold] cost of purchasing items in cities [-33]%", "Doubles Gold given to enemy if city is captured"]
 	},
 	{
-    "name": "Bathysphere"
+    "name": "'The Sinker'"
 		"uniqueTo": "Rapture",
 		"replaces": "Grand Temple",
 		"cost": 125,
