@@ -33,7 +33,7 @@
     "greatPersonPoints": {"Great General": 1},
      "specialistSlots": {"Scientist": 1, "Merchant": 2},
 		"isNationalWonder": true,
-		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "[+25]% [Food] [in this city]", "May buy [Plasmid] buildings for [300] [Gold] [in all cities]", "[+25]% Unhappiness from [Population] [in all cities]"],
+		"uniques": ["[+1 Gold, +1 Science] from [Fishing Boat] tiles [in this city]", "[-33]% Food is carried over after population increases [in this city]", "[+20]% [Gold] [in this city]", "May buy [Plasmid] buildings for [300] [Gold] [in all cities]", "[+20]% Unhappiness from [Population] [in all cities]"],
 		"requiredTech": "Mathematics"
 	},
 {
@@ -54,7 +54,7 @@
 		"culture": 4,
   "replaces": "National Epic",
 		"uniqueTo": "Rapture",
-    "happiness": 2,
+    "happiness": 4,
     "maintenance": 2,
     "specialistSlots": {"Artist": 2, "Merchant": 1},
  "greatPersonPoints": {"Great Artist": 1},
@@ -91,18 +91,17 @@
 		"name": "Monument to Mankind's Achievement",
   "replaces": "Shrine",
 		"uniqueTo": "Rapture",
-		"Happiness": 1,
   "culture": 1,
 		"cost": 50,
 		"maintenance": 1,
 		"requiredTech": "Pottery",
-		"uniques": ["[+50 Culture] whenever a Great Person is expended"]
+		"uniques": ["[+50 Culture] whenever a Great Person is expended", "[+1 Happiness] [in this city]"]
 	},
 {
 		"name": "'The Great Chain' - Andrew Cohen",
   "replaces": "Temple",
 		"uniqueTo": "Rapture",
-  "culture": 1,
+  "culture": 2,
 		"requiredBuilding": "Shrine",
 		"hurryCostModifier": 50,
 		"requiredTech": "Philosophy",
@@ -112,19 +111,17 @@
 {
 		"name": "Plasmid - Insect Swarm",
 		"cost": 100,
-"Happiness": 2,
 		"uniqueTo": "Rapture",
    "percentStatBonus": {"gold": 5, "food": 15, "production": 15, "culture": 5, "science": 10},
-		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Insect Swarm] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Insect Swarm] promotion","[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
+		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Insect Swarm] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Insect Swarm] promotion","[+40]% Unhappiness from [Population] [in this city]", "[-40]% Growth [in this city]", "[+2 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
 		"name": "Plasmid - Incinerate!",
 		"cost": 100,
 		"uniqueTo": "Rapture",
-  "Happiness": 2,
    "percentStatBonus": {"gold": 5, "production": 20, "culture": 15, "science": 10},
-		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Incinerate!] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Incinerate!] promotion", "[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
+		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>", "Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Incinerate!] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Incinerate!] promotion", "[+40]% Unhappiness from [Population] [in this city]", "[-40]% Growth [in this city]","[+2 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
@@ -133,33 +130,30 @@
 "Happiness": 2,
 		"uniqueTo": "Rapture",
    "percentStatBonus": {"food":25, "production": 20, "culture": 5},
-		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>","Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Enrage] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Enrage] promotion", "[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
+		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>","Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Enrage] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Enrage] promotion", "[+40]% Unhappiness from [Population] [in this city]", "[-40]% Growth [in this city]","[+2 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
 		"name": "Plasmid - Sonic Boom",
 		"cost": 100,
 		"uniqueTo": "Rapture",
-  "Happiness": 2,
    "percentStatBonus": {"gold": 20, "production": 15, "culture": 15},
-		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>","Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Sonic Boom] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Sonic Boom] promotion", "[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
+		"uniques": ["Plasmid", "Unbuildable", "Can only be built <in cities with a [Fontaine Futuristics]>","Can only be built <in cities without a [Plasmid]>", "All newly-trained [Sword] units [in this city] receive the [Sonic Boom] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Sonic Boom] promotion", "[+40]% Unhappiness from [Population] [in this city]", "[-40]% Growth [in this city]","[+2 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
 		"name": "Plasmid - Zap Bolt",
 		"cost": 100,
-"Happiness": 2,
 		"uniqueTo": "Rapture",
    "percentStatBonus": {"production": 20, "culture": 10, "science": 20},
-		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities without a [Plasmid]>", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [Sword] units [in this city] receive the [Zap Bolt] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Zap Bolt] promotion", "[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
+		"uniques": ["Plasmid","Unbuildable", "Can only be built <in cities without a [Plasmid]>", "Can only be built <in cities with a [Fontaine Futuristics]>", "All newly-trained [Sword] units [in this city] receive the [Zap Bolt] promotion", "All newly-trained [Gunpowder] units [in this city] receive the [Zap Bolt] promotion", "[+40]% Unhappiness from [Population] [in this city]", "[-40]% Growth [in this city]", "[+2 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
 		"name": "Zap Bolt - Now In Tonic Form!",
 		"cost": 100,
-"Happiness": 1,
 		"uniqueTo": "Rapture",
-		"uniques": ["Tonic", "Plasmid", "Unbuildable", "Can only be built <in cities with a [Plasmid - Zap Bolt]>", "All newly-trained [Archery] units [in this city] receive the [Zap Bolt+] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Zap Bolt+] promotion"],
+		"uniques": ["Tonic", "Plasmid", "Unbuildable", "Can only be built <in cities with a [Plasmid - Zap Bolt]>", "All newly-trained [Archery] units [in this city] receive the [Zap Bolt+] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Zap Bolt+] promotion","[+1 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
@@ -167,7 +161,7 @@
 		"cost": 100,
 "Happiness": 1,
 		"uniqueTo": "Rapture",
-		"uniques": ["Tonic","Unbuildable", "Plasmid",  "Can only be built <in cities with a [Plasmid - Incinerate!]>", "All newly-trained [Archery] units [in this city] receive the [Incinerate!+] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Incinerate!+] promotion"],
+		"uniques": ["Tonic","Unbuildable", "Plasmid",  "Can only be built <in cities with a [Plasmid - Incinerate!]>", "All newly-trained [Archery] units [in this city] receive the [Incinerate!+] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Incinerate!+] promotion","[+1 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 {
@@ -176,7 +170,7 @@
 "Happiness": 2,
 		"uniqueTo": "Rapture",
    "percentStatBonus": {"production": 20, "food": 20, "gold": 20, "culture": 20, "science": 20},
-		"uniques": ["Tonic", "Plasmid",  "Unbuildable", "Can only be built <in cities with a [Point Prometheus]>", "Can only be built <in cities without a [Plasmid]>", "All newly-trained [Archer] units [in this city] receive the [Telekinesis] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Telekinesis] promotion", "[+50]% Unhappiness from [Population] [in this city]", "[-50]% Growth [in this city]"],
+		"uniques": ["Tonic", "Plasmid",  "Unbuildable", "Can only be built <in cities with a [Point Prometheus]>", "Can only be built <in cities without a [Plasmid]>", "All newly-trained [Archer] units [in this city] receive the [Telekinesis] promotion", "All newly-trained [Ranged Gunpowder] units [in this city] receive the [Telekinesis] promotion", "[+40]% Unhappiness from [Population] [in this city]", "[-40]% Growth [in this city]","[+2 Happiness] [in this city]"],
 		"requiredTech": "Mathematics"
 	},
 ]
