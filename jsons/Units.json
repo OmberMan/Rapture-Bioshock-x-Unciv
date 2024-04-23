@@ -64,7 +64,7 @@
   "rangedStrength": 25,
   "range": 1,
 		"cost": 235,
-		"requiredTech": "Chemistry",
+		"requiredTech": "Engineering",
 		"uniques": ["Can pass through impassable tiles", "All tiles cost 1 movement", "Can see over obstacles", "Ignores Zone of Control", "May withdraw before melee ([85]%)","No defensive terrain bonus", "[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Armored] units>", "[-25]% Strength <vs [Ranged] units> <when defending>", "Transfer Movement to [Civilian]", "[-90]% Strength <vs [Air] units>", "[+1] Sight", "[-10] HP when healing", "Can move after attacking", "Unable to capture cities", "No defensive terrain penalty", "Normal vision when embarked"],
 		"hurryCostModifier": 35,
 		"attackSound": "bomber",
