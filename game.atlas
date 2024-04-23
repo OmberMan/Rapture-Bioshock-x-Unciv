@@ -18,21 +18,7 @@ BuildingIcons/'The Sinker'
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateTypeIcons/'The Sinker'
-  rotate: false
-  xy: 825, 51
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 BuildingIcons/Arcadia
-  rotate: false
-  xy: 1024, 130
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-CityStateTypeIcons/Arcadia
   rotate: false
   xy: 1024, 130
   size: 200, 200
