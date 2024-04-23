@@ -102,7 +102,7 @@ Said don't stop to punk rock",
 		"innerColor": [235,245,249],
 		"cities": ["Columbia"],
 		"leaderName": "Zachary Cumsock",
-		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings","[+2 Faith, +1 Culture] from all [Wonder] buildings", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [Ishim] promotion", "Free [Airship] appears <upon entering a new era>", "[-30]% growth [in all cities]"]
+		"unqiues": ["Reveal up to [All] [All] within a [7] tile radius <upon turn end>", "Gain [0]-[100] [Science] <upon constructing [Faith] [in capital]>", "[+1 Faith] from all [Culture] buildings", "[+250]% Strength for cities", "All newly-trained [Land] units [in capital] receive the [Ishim] promotion", "Free [Airship] appears <every [10] turns>", "[-30]% growth [in all cities]"]
 	},
 ]
 //"[-50]% Production when constructing [All] buildings [in all cities]", 
